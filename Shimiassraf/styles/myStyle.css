@@ -1,0 +1,95 @@
+body 
+{
+    
+    background-image:url(../styles/wood-texture-background-e1359619712662.jpg);
+     height:600px;
+     width:1900px;
+     background-position:right;
+}
+#container
+{
+  
+}
+article {
+    background-image: url(../styles/df4c81971efed4fa21ab5a1e5ce35993.jpg);
+    direction: rtl;
+    height: 1200px;
+    width: 1200;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1500px;
+
+   
+}
+h1{
+    font-size:26px; 
+    padding-top:25px;
+    padding-bottom:42px;
+  border:groove;
+  width:1896px;
+  padding-right:940px;
+
+  
+}
+p{
+    font-weight:bold;
+    font-size:16px;
+    margin-right:780px;
+    width:350px;
+    height:195px;
+    border:groove;
+    background-image:url(wood-texture-background-e1359619712662.jpg);
+    padding-top:60px;
+    padding-right:25px;
+    background-repeat:no-repeat;
+}
+h2 {
+    font-size: 20px;
+    margin-right: 783px;
+    margin-top: -275px;
+    padding-top:10px;
+}
+h3{
+    font-size: 20px;
+    margin-right: 1740px;
+    margin-top: -950px;
+}
+h2::first-letter{
+    color:#ff0000;
+    font-size:32px;
+}
+h3::first-letter{
+    color:#ff0000;
+    font-size:32px;
+}
+#Shoko
+{
+    background-image:url(../styles/logo-facebook-30.png);
+    height:100px;
+    width:100px;
+    background-repeat:no-repeat;
+    border:hidden;
+    background-size:100px;
+    margin-right:1760px;
+   
+
+
+
+;
+}
+#shiter{
+    margin-right:1760px;
+
+}
+#Shoko:hover{
+    -moz-transform: scale(2);
+-webkit-transform: scale(2);
+-o-transform: scale(2);
+-ms-transform: scale(2);
+transform: scale(2);
+-webkit-transition: all 250ms ease;
+-moz-transition: all 250ms ease;
+-ms-transition: all 250ms ease;
+-o-transition: all 250ms ease;
+transition: all 250ms ease;
+}
